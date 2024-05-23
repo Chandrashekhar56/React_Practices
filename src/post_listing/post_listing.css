@@ -1,0 +1,24 @@
+.posts-list {
+    margin: auto;
+    text-align: left;
+  }
+  
+  .posts-list ul {
+    list-style-type: decimal;
+  }
+  
+  .posts-list li {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .posts-list h3 {
+    color: #0066cc;
+  }
+  
+  .posts-list p {
+    color: #666;
+  }
+  

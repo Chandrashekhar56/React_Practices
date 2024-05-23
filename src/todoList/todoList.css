@@ -1,0 +1,30 @@
+.wrapper {
+    margin: 20px;
+}
+
+.task_submit_btn {
+    margin-left: 5px;
+    width: 50px;
+}
+
+.dispaly_task {
+    display: inline;
+}
+
+.mark_button {
+    margin-left: 10px;
+}
+
+.mark_button.completed {
+    background-color: green;
+    color: white;
+}
+
+button {
+    padding: '5px 10px';
+    background-Color: '#4CAF50';
+    color: 'white';
+    border: 'none';
+    border-Radius: '4px';
+    cursor: 'pointer';
+}
