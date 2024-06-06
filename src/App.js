@@ -1,9 +1,11 @@
 /* eslint-disable react/jsx-pascal-case */
 // import logo from './logo.svg';
 import './App.css';
+import Practices from './practices';
+// import ImageUpload from './imageUpload/ImageUpload';
 // import UserChart from './Bar/UserChart';
 // import DoughnutChart from './Doughnut/DoughnutChart';
-import Drag_Drop from './Drag&DropText';
+// import Drag_Drop from './Drag&DropText';
 // import SignUpPage from './screens/signup/signupbyfunctional';
 // import SignUpPage from './screens/signup/signupbyfunctional';
 // import SignUpPage from './screens/signup/signupbyclass';
@@ -125,7 +127,9 @@ function App() {
       {/* <CarouselSlider/> */}
       {/* <UserChart/> */}
       {/* <DoughnutChart/> */}
-      <Drag_Drop/>
+      {/* <Drag_Drop/> */}
+      {/* <ImageUpload/> */}
+      <Practices/>
     </div>
   );
 }
